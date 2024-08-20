@@ -1,0 +1,7 @@
+Allows melee weapons to reflect enemy projectiles（with 1.5x original speed）, dealing damage back to enemies.
+based on the original mod by Winter foliage.
+If you believe this mod infringes on your copyright, please contact me, and I will immediately remove the mod.
+
+允许近战武器反弹敌人的弹幕（反弹后速度为原来的1.5倍），并对敌人造成伤害。  
+基于 寒天小叶 的原mod。  
+如果您认为此mod侵犯了您的版权，请联系我，我将立刻下架此mod。

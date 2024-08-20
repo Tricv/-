@@ -1,0 +1,3 @@
+displayName = Melee weapons bounce bullets 近战武器反弹弹幕
+author = KLIMe (based on the original mod by Winter foliage；基于原mod作者寒天小叶)
+version = 0.1
